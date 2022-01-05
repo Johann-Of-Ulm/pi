@@ -1,0 +1,2 @@
+# pi
+pycharm kivy project
